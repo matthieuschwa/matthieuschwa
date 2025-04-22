@@ -5,34 +5,44 @@ Aspiring AI Developer & Data Scientist
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/matthieuschwa?label=Follow&style=social)](https://github.com/matthieuschwa)
-[![Linkedin: Matthieu Schwartz](https://img.shields.io/badge/-LinkedInM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)]([https://www.linkedin.com](https://www.linkedin.com/in/matthieu-schwartz/))
+[![Linkedin: Matthieu Schwartz](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)]([https://www.linkedin.com/in/matthieu-schwartz/])
 
 ---
 
 ### A little more about me... 
 
-``````python
-matthieu = {
-  vscode_theme: "One Monokai" | "Night Owl",
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-  ai_frameworks: [
-    "PyTorch", "LangChain", "LlamaIndex", "YOLOv8",
-    "Whisper", "spaCy", "Hugging Face", "scikit-learn"
-  ],
+``
+class AIStudent:
 
-  data_tools: ["pandas", "numpy", "matplotlib", "seaborn"],
+    def __init__(self):
+        self.name = "Matthieu"
+        self.role = "GenAI Student"
+        self.job = "Intership Jumbo Mana"
+        self.vscode_theme = ["One Monokai", "Night Owl"]
+        self.ai_frameworks = [
+            "PyTorch", "LangChain", "LlamaIndex", "YOLOv8",
+            "Whisper", "spaCy", "Hugging Face", "scikit-learn"
+        ]
+        self.data_tools = ["pandas", "numpy", "matplotlib", "seaborn"]
+        self.devops_stack = [
+            "Triton Inference Server", "Docker",
+            "Kubernetes", "FastAPI", "MLflow"
+        ]
+        self.databases = ["PostgreSQL", "Elasticsearch", "Qdrant", "Neo4j"]
+        self.interests = [
+            "LLMs", "RAG", "Graphs", "Multi-agent systems",
+            "Speech-to-text", "LLM Deployment", "Fine-tuning"
+        ]
+        self.currently_learning = "Multi-agent AI systems"
 
-  devops: [
-    "Triton Inference Server", "Docker", 
-    "Kubernetes", "FastAPI", "MLflow"
-  ],
+    def say_hi(self):
+        print("hello world")
+        print("Passionate about building intelligent systems with modern AI tools.")
+  
 
-  db: ["PostgreSQL", "Elasticsearch", "Qdrant", "Neo4j"],
+me = AIStudent()
+me.say_hi()
 
-  interests: [
-    "LLMs", "RAG", "Graphs", "Multi-agent systems", 
-    "Speech-to-text", "LLM Deployment", "Fine-tuning"
-  ],
-
-  currentlyLearning: "Multi-agent AI systems"
-}
