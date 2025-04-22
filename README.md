@@ -1,4 +1,4 @@
-<h2> Hi, I'm Matthieu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Matthieu! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4YWExNHo0NmEwbWM0b3pkY2o4bTRiNTI3Z25pZHA4aGh1M3c0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Passionate about Generative AI 👨‍💻<br>
 Aspiring AI Developer & Data Scientist <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
