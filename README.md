@@ -9,11 +9,11 @@ Aspiring AI Developer & Data Scientist <img src="https://media.giphy.com/media/f
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un peu plus sur moi...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ``````python
 matthieu = {
-  pronouns: "he" | "him",
+  vscode_theme: "One Monokai" | "Night Owl",
 
   ai_frameworks: [
     "PyTorch", "LangChain", "LlamaIndex", "YOLOv8",
