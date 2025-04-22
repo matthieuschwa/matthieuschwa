@@ -9,7 +9,7 @@ Aspiring AI Developer & Data Scientist <img src="https://media1.giphy.com/media/
 
 ---
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21kd2FncmF6ZjM5YXhjbXcyaGN2dnc2ZzAzbnphNmwxNGg4bDdidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IK5Wj4g10fwUAU/giphy.gif" width="50"> A little more about me... 
+### A little more about me... 
 
 ``````python
 matthieu = {
