@@ -11,10 +11,10 @@ Aspiring AI Developer & Data Scientist
 
 ### A little more about me... 
 
+```python
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-``
 class AIStudent:
 
     def __init__(self):
