@@ -1,15 +1,15 @@
-<h2> Hi, I'm Matthieu! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4YWExNHo0NmEwbWM0b3pkY2o4bTRiNTI3Z25pZHA4aGh1M3c0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Matthieu! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgxcnFra2ZrcWxoZzVna3prbnZ4dzVzcHUzMHh6d3AzMXFlNzFhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Passionate about Generative AI 👨‍💻<br>
-Aspiring AI Developer & Data Scientist <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+Aspiring AI Developer & Data Scientist <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl3ejF0aXVra3ByY3d6cjM0YzZ5cDZ1czIyMDdoaGE0enpjbzlkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/matthieuschwa?label=Follow&style=social)](https://github.com/matthieuschwa)
-[![Linkedin: tonlinkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)]([https://www.linkedin.com](https://www.linkedin.com/in/matthieu-schwartz/))
+[![Linkedin: Matthieu Schwartz](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)]([https://www.linkedin.com](https://www.linkedin.com/in/matthieu-schwartz/))
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21kd2FncmF6ZjM5YXhjbXcyaGN2dnc2ZzAzbnphNmwxNGg4bDdidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IK5Wj4g10fwUAU/giphy.gif" width="50"> A little more about me... 
 
 ``````python
 matthieu = {
