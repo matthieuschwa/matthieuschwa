@@ -3,10 +3,6 @@
 <p><em>Passionate about Generative AI 👨‍💻<br>
 Aspiring AI Developer & Data Scientist
 </em></p>
-
-[![GitHub followers](https://img.shields.io/github/followers/matthieuschwa?label=Follow&style=social)](https://github.com/matthieuschwa)
-[![Linkedin: Matthieu Schwartz](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)]([https://www.linkedin.com/in/matthieu-schwartz/])
-
 ---
 
 ### A little more about me... 
